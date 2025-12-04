@@ -1,5 +1,4 @@
 # Breakable Flask
-s
 
 A simple vulnerable Flask application.
 
